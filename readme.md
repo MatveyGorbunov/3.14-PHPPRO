@@ -1,7 +1,7 @@
 # Sova
 ---
 ## **Sova** - русский агент-зачинщик из игры ["***Valorant***"](https://Valorant.fandom.com/ru/wiki/Valorant) ![Sova](Assets/Sova_artwork.webp) 
-*Цитата при выборе агента*
+*Цитата при выборе агента
 >*Где бы они ни были - я их найду*
 ---
 ## _Описание_
